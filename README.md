@@ -1,6 +1,6 @@
 # Pyzertypkg
 
-A goofy package manager made in Python.
+A package manager made in Python.
 
 Pyzertypkg downloads, installs, uninstalls, and manages `.azertypkg` packages from a repository JSON file. It exists because why not.
 
