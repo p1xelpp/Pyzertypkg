@@ -14,7 +14,7 @@ except ImportError:
 #now its time to make the foldersssss yayyyy (nooooo)
 print("making Pyzetypkg/ya-i-need-dis-map/tmp")
 Path("Pyzertypkg/ya-i-need-dis-map/tmp").mkdir(parents=True, exist_ok=True)
-print("making Pyzetypkg/ya-i-need-dis-map/installed")
+print("making Pyzertypkg/ya-i-need-dis-map/installed")
 Path("Pyzertypkg/ya-i-need-dis-map/installed").mkdir(parents=True, exist_ok=True)
 
 #get the main.py
